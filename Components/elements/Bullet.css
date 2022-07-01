@@ -1,0 +1,10 @@
+.bullets  { 
+    list-style: none; 
+}
+
+.bullets li:before {
+    content:"•"; 
+    font-size: 14px; 
+    position: absolute;
+    left: 40px;
+}

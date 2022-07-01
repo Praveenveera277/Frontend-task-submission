@@ -1,0 +1,12 @@
+li {
+    display: flex;
+    color: white;
+    margin-bottom: 10px;
+}
+
+li h5 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    margin-right: 7px;
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+.button-large {
+    width: 315px;
+    height: 66px;
+    border-radius: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+}

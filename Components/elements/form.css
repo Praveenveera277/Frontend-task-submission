@@ -1,0 +1,18 @@
+#inputbox {
+    width: 216px;
+    height: 30px;
+    background: rgba(255, 255, 255, 0.62);
+    border: 1px solid #E7F6FC;
+    border-radius: 4px;
+}
+
+#inputbox::placeholder {
+    color: black;
+    font-size: 12px;
+    font-family: 'DM Sans', sans-serif;
+    padding-left: 11px;
+}
+
+.input-form {
+    display: flex;
+}
