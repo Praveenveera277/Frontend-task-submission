@@ -1,0 +1,26 @@
+.section-eight {
+    padding: 0 30px 0 30px;
+    height: 373px;
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+    width: 100%;
+    display: grid;
+    place-items: center;
+    font-family: 'Reptile', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 134.8%;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 500;
+}
+
+.gradient {
+    position: absolute;
+    border: 1px solid black;
+    width: 287px;
+    height: 142px;
+    left: 44px;
+    background: linear-gradient(156.97deg, rgba(255, 10, 186, 0.52) 0%, rgba(24, 160, 251, 0.52) 86.68%);
+    opacity: 0.33;
+    filter: blur(93px);
+}

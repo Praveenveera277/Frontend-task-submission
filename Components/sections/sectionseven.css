@@ -1,0 +1,33 @@
+.section-seven {
+    padding: 39px 30px 52px 30px;
+    height: 646px;
+    background: #F66E6E;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: column;
+    justify-content: space-around;
+    
+}
+
+.button-medium {
+    margin-left: 16px;
+}
+
+.period-box {
+    z-index: 1;
+    width: 375px;
+    margin-left: -30px;
+}
+
+.ellipse {
+    position: absolute;
+    top: 5696px;
+    border: 1px solid black;
+    width: 375px;
+    height: 168px;
+    margin-left: -30px;
+    border-radius: 50%;
+    background: rgba(246, 240, 196, 0.25);
+    filter: blur(46px);
+}

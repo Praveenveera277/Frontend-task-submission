@@ -1,0 +1,36 @@
+.section-nine {
+    padding: 0 28px 0 28px;
+    height: 390px;
+    background: #050506;
+    width: 100%;
+}
+
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 8.95px;
+    color: white;
+    margin-left: -10px;
+}
+
+.social-media-icons {
+    float: right;
+    margin-right: 9px;
+
+}
+
+.social-media-icons img {
+    margin: 55px 9px 0 9px;
+}
+
+.list {
+    padding: 117px 0 24px 9px;
+}
+
+h6 {
+    margin: 17px 0 8px 11px;
+}
+
+Form {
+    padding-left: 11px;
+}
